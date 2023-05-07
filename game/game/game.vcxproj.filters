@@ -34,6 +34,9 @@
     <Filter Include="Components\Object">
       <UniqueIdentifier>{0c22ba31-0076-4639-bdd9-47cbceea50d6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Components\Tile">
+      <UniqueIdentifier>{29315afc-a8f8-4009-b161-6a533e7b12ea}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="WindowInit.cpp" />
@@ -96,6 +99,18 @@
     </ClCompile>
     <ClCompile Include="ObjectState.cpp">
       <Filter>Components\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="UIComponents.cpp">
+      <Filter>Components</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerSprite.cpp">
+      <Filter>Player</Filter>
+    </ClCompile>
+    <ClCompile Include="TileTmx.cpp">
+      <Filter>Components\Tile</Filter>
+    </ClCompile>
+    <ClCompile Include="TileLayer.cpp">
+      <Filter>Components\Tile</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -183,6 +198,33 @@
     </ClInclude>
     <ClInclude Include="ObjectState.h">
       <Filter>Components\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="UIComponents.h">
+      <Filter>Components</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerSprite.h">
+      <Filter>Player</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerData.h">
+      <Filter>Player</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerState.h">
+      <Filter>Player</Filter>
+    </ClInclude>
+    <ClInclude Include="TileTmx.h">
+      <Filter>Components\Tile</Filter>
+    </ClInclude>
+    <ClInclude Include="TileLayer.h">
+      <Filter>Components\Tile</Filter>
+    </ClInclude>
+    <ClInclude Include="Layer.h">
+      <Filter>Components</Filter>
+    </ClInclude>
+    <ClInclude Include="TileSet.h">
+      <Filter>Components\Tile</Filter>
+    </ClInclude>
+    <ClInclude Include="SpriteState.h">
+      <Filter>Components\Graphics</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

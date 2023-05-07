@@ -1,6 +1,6 @@
 ﻿#pragma once
 #include "d3d9.h"
-#include <D3dx9tex.h>
+#include "d3dx9tex.h"
 #include "string"
 #include "Rect.h"
 #include "D3dx9core.h"

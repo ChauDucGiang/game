@@ -4,38 +4,51 @@
 \\Mac\Home\Documents\game\game\game\base64.cpp(86,59): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
   BitMapFont.cpp
   Game.cpp
-\\Mac\Home\Documents\game\game\game\PlayScene.h(3,10): fatal  error C1083: Cannot open include file: 'PlayerSprite.h': No such file or directory
+\\Mac\Home\Documents\game\game\game\Graphics.h(3,10): fatal  error C1083: Cannot open include file: 'd3dx9tex.h': No such file or directory
   Graphics.cpp
-\\Mac\Home\Documents\game\game\game\Graphics.h(3,10): fatal  error C1083: Cannot open include file: 'D3dx9tex.h': No such file or directory
+\\Mac\Home\Documents\game\game\game\Graphics.h(3,10): fatal  error C1083: Cannot open include file: 'd3dx9tex.h': No such file or directory
   KeyBoard.cpp
   Map.cpp
-\\Mac\Home\Documents\game\game\game\Map.h(4,10): fatal  error C1083: Cannot open include file: 'TileLayer.h': No such file or directory
+\\Mac\Home\Documents\game\game\game\Graphics.h(3,10): fatal  error C1083: Cannot open include file: 'd3dx9tex.h': No such file or directory
   ObjectData.cpp
-\\Mac\Home\Documents\game\game\game\Graphics.h(3,10): fatal  error C1083: Cannot open include file: 'D3dx9tex.h': No such file or directory
+\\Mac\Home\Documents\game\game\game\Graphics.h(3,10): fatal  error C1083: Cannot open include file: 'd3dx9tex.h': No such file or directory
   ObjectSprite.cpp
-\\Mac\Home\Documents\game\game\game\Graphics.h(3,10): fatal  error C1083: Cannot open include file: 'D3dx9tex.h': No such file or directory
+\\Mac\Home\Documents\game\game\game\Graphics.h(3,10): fatal  error C1083: Cannot open include file: 'd3dx9tex.h': No such file or directory
   ObjectState.cpp
 \\Mac\Home\Documents\game\game\game\ObjectState.h(2,10): fatal  error C1083: Cannot open include file: 'SpriteState.h': No such file or directory
+  PlayerSprite.cpp
   PlayScene.cpp
   SceneManager.cpp
-\\Mac\Home\Documents\game\game\game\PlayScene.h(3,10): fatal  error C1083: Cannot open include file: 'PlayerSprite.h': No such file or directory
+\\Mac\Home\Documents\game\game\game\Graphics.h(3,10): fatal  error C1083: Cannot open include file: 'd3dx9tex.h': No such file or directory
   Sound.cpp
 \\Mac\Home\Documents\game\game\game\Sound.cpp(173,18): warning C4244: 'initializing': conversion from 'float' to 'long', possible loss of data
 \\Mac\Home\Documents\game\game\game\Sound.cpp(230,16): warning C4244: 'initializing': conversion from 'float' to 'long', possible loss of data
 \\Mac\Home\Documents\game\game\game\Sound.cpp(242,16): warning C4244: 'initializing': conversion from 'float' to 'long', possible loss of data
   Sprite.cpp
   Texture.cpp
-\\Mac\Home\Documents\game\game\game\Graphics.h(3,10): fatal  error C1083: Cannot open include file: 'D3dx9tex.h': No such file or directory
+\\Mac\Home\Documents\game\game\game\Graphics.h(3,10): fatal  error C1083: Cannot open include file: 'd3dx9tex.h': No such file or directory
   TextureArray.cpp
-\\Mac\Home\Documents\game\game\game\Graphics.h(3,10): fatal  error C1083: Cannot open include file: 'D3dx9tex.h': No such file or directory
+\\Mac\Home\Documents\game\game\game\Graphics.h(3,10): fatal  error C1083: Cannot open include file: 'd3dx9tex.h': No such file or directory
+  TileLayer.cpp
+\\Mac\Home\Documents\game\game\game\Graphics.h(3,10): fatal  error C1083: Cannot open include file: 'd3dx9tex.h': No such file or directory
+  TileTmx.cpp
+\\Mac\Home\Documents\game\game\game\Graphics.h(3,10): fatal  error C1083: Cannot open include file: 'd3dx9tex.h': No such file or directory
   tinystr.cpp
   tinyxml.cpp
-  tinyxmlerror.cpp
-  tinyxmlparser.cpp
-  ViewPort.cpp
-\\Mac\Home\Documents\game\game\game\Graphics.h(3,10): fatal  error C1083: Cannot open include file: 'D3dx9tex.h': No such file or directory
   Generating Code...
   Compiling...
+  tinyxmlerror.cpp
+  tinyxmlparser.cpp
+  UIComponents.cpp
+\\Mac\Home\Documents\game\game\game\UIComponents.cpp(103,20): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\game\game\game\UIComponents.cpp(114,21): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Documents\game\game\game\UIComponents.cpp(111,29): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+\\Mac\Home\Documents\game\game\game\UIComponents.cpp(183,2): error C4996: 'memccpy': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _memccpy. See online help for details.
+\\Mac\Home\Documents\game\game\game\UIComponents.cpp(226,15): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+\\Mac\Home\Documents\game\game\game\UIComponents.cpp(241,4): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+\\Mac\Home\Documents\game\game\game\UIComponents.cpp(272,15): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ViewPort.cpp
+\\Mac\Home\Documents\game\game\game\Graphics.h(3,10): fatal  error C1083: Cannot open include file: 'd3dx9tex.h': No such file or directory
   WindowInit.cpp
-\\Mac\Home\Documents\game\game\game\PlayScene.h(3,10): fatal  error C1083: Cannot open include file: 'PlayerSprite.h': No such file or directory
+\\Mac\Home\Documents\game\game\game\Graphics.h(3,10): fatal  error C1083: Cannot open include file: 'd3dx9tex.h': No such file or directory
   Generating Code...
