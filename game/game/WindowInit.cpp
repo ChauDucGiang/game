@@ -3,6 +3,7 @@
 #include <io.h>
 #include "Config.h"
 #include "KeyBoard.h"
+#include "Game.h"
 /*
 *	CallBack Funtion
 *	@Parameter
@@ -71,9 +72,9 @@ int WINAPI wWinMain(HINSTANCE hInstance, HINSTANCE, LPWSTR, INT)
 
 	RECT rect;	// the rect represents for client area of the window
 	rect.left = 100;
-	rect.right = 100 + SCWIDTH * 2; //SCWIDTH = 256 : screen width Graphics.h
+	rect.right = 100 + SCREEN_WIDTH * 2;
 	rect.top = 100;
-	rect.bottom = 100 + SCHEIGHT * 2; //SCHEIGHT = 256 : screen height Graphics.h
+	rect.bottom = 100 + SCREEN_HEIGHT * 2;
 
 	AdjustWindowRect(&rect, WS_OVERLAPPEDWINDOW, false); // automaticlly adjust the window depend on what its size
 
