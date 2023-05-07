@@ -1,4 +1,5 @@
 #pragma once
+
 #include "Rect.h"
 
 template <class T>

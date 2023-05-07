@@ -28,6 +28,12 @@
     <Filter Include="Bullets">
       <UniqueIdentifier>{01f3ac76-76ad-41b2-87d8-23e86e214aad}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Components\Outputs">
+      <UniqueIdentifier>{8265ea8c-0b96-4981-ae41-7620980a847e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Components\Object">
+      <UniqueIdentifier>{0c22ba31-0076-4639-bdd9-47cbceea50d6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="WindowInit.cpp" />
@@ -78,6 +84,18 @@
     </ClCompile>
     <ClCompile Include="TextureArray.cpp">
       <Filter>Components\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound.cpp">
+      <Filter>Components\Outputs</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectData.cpp">
+      <Filter>Components\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectSprite.cpp">
+      <Filter>Components\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectState.cpp">
+      <Filter>Components\Object</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -147,6 +165,24 @@
     </ClInclude>
     <ClInclude Include="TextureArray.h">
       <Filter>Components\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound.h">
+      <Filter>Components\Outputs</Filter>
+    </ClInclude>
+    <ClInclude Include="QuadTree.h">
+      <Filter>Components</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>Components\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectData.h">
+      <Filter>Components\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectSprite.h">
+      <Filter>Components\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectState.h">
+      <Filter>Components\Object</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
