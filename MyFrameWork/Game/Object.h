@@ -13,7 +13,7 @@ public:
 
 	Tag tag;									// Tag định loại Object
 	Type type;									// Loại Object
-	float spawnX, spawnY;
+	float spawnX, spawnY;						// Vị trí hồi sinh
 	float posX, posY;							// Vị trí (đồng thời là tâm của Object đó)
 	float vx, vy;								// Vận tốc
 	float dx, dy;

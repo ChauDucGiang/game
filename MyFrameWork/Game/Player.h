@@ -22,9 +22,9 @@ public:
 	~Player();
 	static Player* GetInstance();
 
-	int health;
-	int energy;
-	int lives;
+	int health;			// Máu
+	int energy;			// Năng lượng
+	int lives;			// Số mạng còn lại
 
 	bool isOnGround, isOnWall;
 	bool isThrowing, isAttacking;

@@ -20,9 +20,9 @@ private:
 public:
 	Game(HWND hWnd);				// Constructor Game từ Windows đã tạo
 	void Init(HWND hWnd);			// Khởi tạo các thông số cho Game
-	void LoadResources();
+	void LoadResources();			// Load toàn bộ resources cho Game
 	void Run();						// Khởi chạy game, đồng thời chứa vòng lặp game
 	void Update(float dt);			// Update game sau khoảng thời gian delta-time
 	void Render();					// Render các Object có trong Game
-	void ProcessKeyboard();
+	void ProcessKeyboard();			// Key Event
 };

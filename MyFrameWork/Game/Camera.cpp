@@ -34,7 +34,8 @@ void Camera::Update(Rect mapRect)
 		this->x = mapRect.width - this->width;
 	}
 }
-
+ 
+// Đổi một điểm từ trục tọa độ để vẽ trên màn hình sang trục tọa độ thế giới (world)
 void Camera::ConvertPositionToViewPort(float& x, float& y)
 {
 	D3DXMATRIX matrix;
