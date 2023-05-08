@@ -226,23 +226,23 @@ extern enum Type
 
 extern enum State
 {
-	MOVING,
-	STANDING,
-	RUNNING,
-	JUMPING,
-	FALLING,
-	SITTING,
-	ATTACKING,
-	ATTACKING_STAND,
-	ATTACKING_SIT,
-	THROWING,
-	CLINGING,
-	CLIMBING,
-	FLYING,
-	ACTIVE,
-	DEAD,
-	INJURED
-};
+	MOVING,					// Di chuyển
+	STANDING,				// Đứng yên
+	RUNNING,				// Chạy
+	JUMPING,				// Nhảy
+	FALLING,				// Rơi
+	SITTING,				// Nằm
+	ATTACKING,				// Tấn công
+	ATTACKING_STAND,		// Tấn công đứng
+	ATTACKING_SIT,			// Tấn công nằm
+	THROWING,				// Ném
+	CLINGING,				// Bám
+	CLIMBING,				// Leo
+	FLYING,					// Bay
+	ACTIVE,					// Active
+	DEAD,					// Chết
+	INJURED					// Bị thương
+};	
 
 struct Rect
 {
