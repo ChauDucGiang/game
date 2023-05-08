@@ -1,4 +1,4 @@
-#include "Collision.h"
+﻿#include "Collision.h"
 
 Collision* Collision::instance = NULL;
 
@@ -14,6 +14,7 @@ bool Collision::IsCollision(BoundingBox b1, BoundingBox b2)
 	return !(b1.left > b2.right || b1.right < b2.left || b1.top < b2.bottom || b1.bottom > b2.top);
 }
 
+// Xét va chạm giữ 2 box chữ nhật
 CollisionResult Collision::SweptAABB(BoundingBox b1, BoundingBox b2)
 {
 	CollisionResult result;
@@ -21,10 +22,13 @@ CollisionResult Collision::SweptAABB(BoundingBox b1, BoundingBox b2)
 	result.entryTime = 1.0f;
 	result.nx = result.ny = 0;
 
+	// Tính chênh lệch vận tốc giữ 2 vật thể
 	b1.vx = b1.vx - b2.vx;
 	b1.vy = b1.vy - b2.vy;
 
+	// S  = v * t
 	BoundingBox broadphasebox;
+	
 	broadphasebox.top = b1.vy > 0 ? b1.top + b1.vy : b1.top;
 	broadphasebox.bottom = b1.vy > 0 ? b1.bottom : b1.bottom + b1.vy;
 	broadphasebox.left = b1.vx > 0 ? b1.left : b1.left + b1.vx;
