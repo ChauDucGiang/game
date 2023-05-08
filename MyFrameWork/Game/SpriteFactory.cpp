@@ -241,6 +241,7 @@ void SpriteFactory::AddSprite(Sprite* sprite)
 	_sprites[sprite->tag].push_back(sprite);
 }
 
+// Lấy một Sprite từ danh sách các Sprite, quy định theo Tag và index khi AddSprite
 Sprite* SpriteFactory::GetSprite(Tag tag, int index)
 {
 	return _sprites[tag][index];

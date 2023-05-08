@@ -1,0 +1,9 @@
+1 SniperBlock 320 121 32 32 
+2 SniperBlock 485 123 32 32 
+3 SniperBlock 150 135 32 32 
+4 SniperBlock 200 130 32 32 
+5 GroundElectron 21 97 128 16 
+6 Fire 24 110 16 16 
+7 Fire 92 109 16 16 
+0 Camera 0 240 256 240 
+0 Character 40 240 36 46 

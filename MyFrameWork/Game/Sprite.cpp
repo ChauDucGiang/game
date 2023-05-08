@@ -4,16 +4,19 @@
 Sprite::Sprite(Tag tag, int left, int top, int right, int bottom)
 {
 	this->tag = tag;
+	// Texture chứa Sprite
 	texture = TextureFactory::GetInstance()->GetTexture(tag);
 	rect.top = top;
 	rect.left = left;
 	rect.right = right;
 	rect.bottom = bottom;
-	center = D3DXVECTOR3((right - left) >> 1, (bottom - top) >> 1, 0);
+	//center = D3DXVECTOR3((right - left) >> 1, (bottom - top) >> 1, 0);
+	center = D3DXVECTOR3((right - left) / 2, (bottom - top) / 2, 0);
 }
 
 // Render Sprite lên màn hình tại tọa độ x,y kèm theo vector tịnh tuyến
 // Update: Có thể cải biên hàm nếu Object đòi hỏi thêm các thuộc tính như xoay, lật...
+// translate (tịnh tiến).
 void Sprite::Render(float x, float y, float translateX, float translateY)
 {
 	// Các thông số dùng cho hàm vẽ Sprite và biến đổi ma trận (nếu có) để thực hiện phép biến hình
@@ -22,7 +25,7 @@ void Sprite::Render(float x, float y, float translateX, float translateY)
 	auto pRotationCenter = D3DXVECTOR2(center.x, center.y);
 	auto pScalingCenter = D3DXVECTOR2(x, y);
 	auto pTranslation = D3DXVECTOR2(translateX, translateY);
-	auto pScaling = D3DXVECTOR2(isReverse ? -1 : 1, 1);
+	auto pScaling = D3DXVECTOR2(isReverse ? -1 : 1, 1); // (-1, 1) lật hình ,  (2, 1) sacle ngang, ,  (1, 2) sacle dọc
 
 	D3DXMATRIX oldMatrix, curMatrix;
 	D3DXMatrixTransformation2D(&curMatrix, &pScalingCenter, 0, &pScaling, &pRotationCenter, 0, &pTranslation);

@@ -42,6 +42,7 @@ Animation::~Animation()
 	sprites.clear();
 }
 
+// Animation từ 1 sprite
 Animation::Animation(Tag tag, int index)
 {
 	sprites.push_back(SpriteFactory::GetInstance()->GetSprite(tag, index));
@@ -51,6 +52,7 @@ Animation::Animation(Tag tag, int index)
 	isLastFrame = false;
 }
 
+// Animation từ nhiều sprites
 Animation::Animation(Tag tag, int firstIndex, int lastIndex, int tpf)
 {
 	sprites = SpriteFactory::GetInstance()->GetSprites(tag, firstIndex, lastIndex);
