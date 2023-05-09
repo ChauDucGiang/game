@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Components">
+      <UniqueIdentifier>{ed92c1cb-7609-4d8f-b9e5-95d5fe03565d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graphics">
+      <UniqueIdentifier>{2db2376f-2c15-4ffd-9e56-c3c2a95a02dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects">
+      <UniqueIdentifier>{26f5f36b-a31b-4877-97ce-f6bbe8b19cf3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scenes">
+      <UniqueIdentifier>{c2748145-f4e3-42a8-98fa-d6023cf0132c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Controllers">
+      <UniqueIdentifier>{01e3c3ac-68e1-4604-abcf-7864bf61d1c0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="GameGlobal.cpp">
+      <Filter>Components</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureFactory.cpp">
+      <Filter>Controllers</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GameGlobal.h">
+      <Filter>Components</Filter>
+    </ClInclude>
+    <ClInclude Include="Tag.h">
+      <Filter>Components</Filter>
+    </ClInclude>
+    <ClInclude Include="Type.h">
+      <Filter>Components</Filter>
+    </ClInclude>
+    <ClInclude Include="State.h">
+      <Filter>Components</Filter>
+    </ClInclude>
+    <ClInclude Include="Rect.h">
+      <Filter>Components</Filter>
+    </ClInclude>
+    <ClInclude Include="Wall.h">
+      <Filter>Components</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureFactory.h">
+      <Filter>Controllers</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

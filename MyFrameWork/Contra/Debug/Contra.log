@@ -1,0 +1,25 @@
+﻿  GameGlobal.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+\\Mac\Home\Documents\game\MyFrameWork\Contra\State.h(21,2): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Tag.h(18,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Type.h(30,2): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+  main.cpp
+  Sprite.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+\\Mac\Home\Documents\game\MyFrameWork\Contra\State.h(21,2): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Tag.h(18,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Type.h(30,2): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Sprite.cpp(14,58): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Sprite.cpp(14,38): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Sprite.cpp(28,30): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  TextureFactory.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+\\Mac\Home\Documents\game\MyFrameWork\Contra\State.h(21,2): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Tag.h(18,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Type.h(30,2): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+  Generating Code...
+Sprite.obj : error LNK2019: unresolved external symbol _D3DXMatrixTransformation2D@28 referenced in function "public: virtual void __thiscall Sprite::Render(float,float,float,float)" (?Render@Sprite@@UAEXMMMM@Z)
+TextureFactory.obj : error LNK2019: unresolved external symbol _D3DXGetImageInfoFromFileA@8 referenced in function "public: __thiscall Texture::Texture(char const *)" (??0Texture@@QAE@PBD@Z)
+TextureFactory.obj : error LNK2019: unresolved external symbol _D3DXCreateTextureFromFileExA@56 referenced in function "public: __thiscall Texture::Texture(char const *)" (??0Texture@@QAE@PBD@Z)
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+\\Mac\Home\Documents\game\MyFrameWork\Debug\Contra.exe : fatal error LNK1120: 4 unresolved externals
