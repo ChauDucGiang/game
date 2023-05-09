@@ -191,15 +191,25 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Animation.cpp" />
+    <ClCompile Include="Camera.cpp" />
+    <ClCompile Include="Collision.cpp" />
+    <ClCompile Include="FontSprite.cpp" />
     <ClCompile Include="GameGlobal.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Sprite.cpp" />
+    <ClCompile Include="SpriteFactory.cpp" />
     <ClCompile Include="TextureFactory.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Animation.h" />
+    <ClInclude Include="Camera.h" />
+    <ClInclude Include="Collision.h" />
+    <ClInclude Include="FontSprite.h" />
     <ClInclude Include="GameGlobal.h" />
     <ClInclude Include="Rect.h" />
     <ClInclude Include="Sprite.h" />
+    <ClInclude Include="SpriteFactory.h" />
     <ClInclude Include="State.h" />
     <ClInclude Include="Tag.h" />
     <ClInclude Include="Texture.h" />

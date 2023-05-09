@@ -28,6 +28,21 @@
     <ClCompile Include="TextureFactory.cpp">
       <Filter>Controllers</Filter>
     </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="SpriteFactory.cpp">
+      <Filter>Controllers</Filter>
+    </ClCompile>
+    <ClCompile Include="FontSprite.cpp">
+      <Filter>Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Components</Filter>
+    </ClCompile>
+    <ClCompile Include="Collision.cpp">
+      <Filter>Components</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="GameGlobal.h">
@@ -56,6 +71,21 @@
     </ClInclude>
     <ClInclude Include="Texture.h">
       <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation.h">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="SpriteFactory.h">
+      <Filter>Controllers</Filter>
+    </ClInclude>
+    <ClInclude Include="FontSprite.h">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Components</Filter>
+    </ClInclude>
+    <ClInclude Include="Collision.h">
+      <Filter>Components</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
