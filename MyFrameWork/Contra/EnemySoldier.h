@@ -1,7 +1,7 @@
 #pragma once
 #include"Enemy.h"
 
-class EnermySoldier : public Enemy
+class EnemySoldier : public Enemy
 {
 private:
 	Rect curGroundBound;
@@ -9,7 +9,7 @@ private:
 public:
 	bool isOnGround;
 	float activeDistance;
-	EnermySoldier();
+	EnemySoldier();
 	void DetectCurGround(std::unordered_set<Rect*> grounds);
 	void UpdateDistance(float dt);
 	void ChangeState(State StateName);

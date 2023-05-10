@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 #include "Player.h"
 #include "EnemySprite.h"
 #include "Cell.h"
@@ -56,6 +56,7 @@ public:
 		curAnimation->Render(posX, posY + SCREEN_TRANSLATEY);
 	}
 
+	// Cập nhật khoảng cách
 	virtual void UpdateDistance(float dt)
 	{
 		this->dx = vx * dt;
@@ -101,6 +102,7 @@ public:
 		return (this->StateName == ATTACKING && curAnimation->isLastFrame);
 	}
 
+	// Chuyển trạng thái
 	virtual void ChangeState(State StateName)
 	{
 		switch (StateName)

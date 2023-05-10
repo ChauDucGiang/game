@@ -1,6 +1,6 @@
-#include "EnermySoldier.h"
+﻿#include "EnemySoldier.h"
 
-EnermySoldier::EnermySoldier()
+EnemySoldier::EnemySoldier()
 {
 	animations[STANDING] = new Animation(ENEMY, 5, 5);
 	animations[RUNNING] = new Animation(ENEMY, 5, 6);
@@ -10,7 +10,7 @@ EnermySoldier::EnermySoldier()
 	speed = ENEMY_RUNMAN_SPEED;
 }
 
-void EnermySoldier::DetectCurGround(std::unordered_set<Rect*> grounds)
+void EnemySoldier::DetectCurGround(std::unordered_set<Rect*> grounds)
 {
 	for (auto g : grounds)
 	{
@@ -26,8 +26,8 @@ void EnermySoldier::DetectCurGround(std::unordered_set<Rect*> grounds)
 		}
 	}
 }
-
-void EnermySoldier::UpdateDistance(float dt)
+// Cập nhật khoảng cách
+void EnemySoldier::UpdateDistance(float dt)
 {
 	if (!this->isOnGround) this->vy -= GRAVITY_SPEED;
 
@@ -42,8 +42,8 @@ void EnermySoldier::UpdateDistance(float dt)
 	this->dx = vx * dt;
 	this->dy = vy * dt;
 }
-
-void EnermySoldier::ChangeState(State StateName)
+// Chuyển trạng thái
+void EnemySoldier::ChangeState(State StateName)
 {
 	switch (StateName)
 	{
