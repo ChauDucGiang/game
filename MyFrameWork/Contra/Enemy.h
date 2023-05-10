@@ -3,7 +3,7 @@
 #include "EnemySprite.h"
 #include "Cell.h"
 #include "Sound.h"
-//#include "ScoreBoard.h"
+#include "ScoreBoard.h"
 #include <algorithm>
 
 class Enemy : public Object
