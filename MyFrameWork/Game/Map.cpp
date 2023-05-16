@@ -1,4 +1,5 @@
 ﻿#include "Map.h"
+#include <iostream>
 
 // >> chuyển dịch bit
 const auto ADD_COL = (SCREEN_WIDTH >> 4) + 1;
@@ -11,14 +12,16 @@ Map::Map(int level)
 	int numSetTiles;
 	//sprintf_s(fileName, "Resources\\Texts\\matrix%d.txt", level);
 
-	sprintf_s(fileName, "Resources\\Maps\\1_bg.txt", level);
+	sprintf_s(fileName, "Resources\\Maps\\map1.txt", level);
 	// Lấy thông tin hàng, cột và chiều dài, rộng của Map tương ứng
 	ifile.open(fileName);
 	ifile >> numSetTiles;
 	ifile >> columns;
 	ifile >> rows;
-	width = columns << 4;
-	height = rows << 4;
+	width = columns * 16;
+	height = rows * 16;
+	//width = columns << 4;
+	//height = rows << 4;
 
 	rect.width = width;
 	rect.height = height;
@@ -42,9 +45,19 @@ Map::Map(int level)
 	}
 
 	auto sprites = SpriteFactory::GetInstance();
-	for (int i = 0; i < numSetTiles; ++i)
+	//for (int i = 0; i < numSetTiles; ++i)
+	//{
+
+	//	sprites->AddSprite(new Sprite(mapLevel, i << 4, 0, i + 1 << 4, 16));
+	//}
+
+	for (int row = 0; row < 12; ++row)
 	{
-		sprites->AddSprite(new Sprite(mapLevel, i << 4, 0, i + 1 << 4, 16));
+		for (int column = 0; column < 11; ++column)
+		{
+			sprites->AddSprite(new Sprite(mapLevel, column * 16, row *16, column + 1 << 4, row + 1 << 4));
+		}
+
 	}
 
 	// Tạo ma trận tương ứng của Map đang xét
@@ -78,7 +91,8 @@ void Map::Render()
 		for (auto c = cBegin; c != cEnd; ++c)
 		{
 			auto sprite = sprites->GetSprite(mapLevel, mapTiles[r][c]);
-			sprite->Render((c << 4) + MOVE_TILE - (int)camera->x, (r << 4) + MOVE_TILE + SCREEN_TRANSLATEY);
+			//sprite->Render((c << 4) + MOVE_TILE - (int)camera->x, (r << 4) + MOVE_TILE + SCREEN_TRANSLATEY);
+			sprite->Render((c * 16) + MOVE_TILE - (int)camera->x, (r * 16) + MOVE_TILE + SCREEN_TRANSLATEY);
 		}
 	}
 }

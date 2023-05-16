@@ -1,6 +1,6 @@
-#include "EnemyBazokaSprite.h"
+#include "EnermySoldierSprite.h"
 
-EnemyBazokaSprite::EnemyBazokaSprite(Type type, int left, int top, int right, int bottom)
+EnermySoldierSprite::EnermySoldierSprite(Type type, int left, int top, int right, int bottom)
 {
 	this->tag = ENEMY;
 	this->type = type;

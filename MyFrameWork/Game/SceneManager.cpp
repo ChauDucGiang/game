@@ -14,11 +14,6 @@ void SceneManager::ReplaceScene(Scene * scene)
 	CurScene = scene;
 }
 
-Scene SceneManager::GetScene()
-{
-	return CurScene;
-}
-
 // Get Instance (Singleton Pattern)
 SceneManager * SceneManager::GetInstance()
 {

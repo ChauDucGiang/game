@@ -11,5 +11,4 @@ public:
 	SceneManager();
 	void ReplaceScene(Scene* scene);			// Thay thế Scene hiện có bằng Scene khác (dùng cho chuyển cảnh)
 	static SceneManager* GetInstance();			// Get Instance (Singleton Pattern)
-	Scene GetScene();							// Get Current Scene
 };

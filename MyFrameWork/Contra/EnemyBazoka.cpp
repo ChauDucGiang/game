@@ -1,6 +1,6 @@
-#include "EnemyBazokaMan.h"
+#include "EnemyBazoka.h"
 
-EnemyBazokaMan::EnemyBazokaMan()
+EnemyBazoka::EnemyBazoka()
 {
 	animations[STANDING] = new Animation(ENEMY, 3, 3);
 	animations[RUNNING] = new Animation(ENEMY, 3, 3);
@@ -14,7 +14,8 @@ EnemyBazokaMan::EnemyBazokaMan()
 	explodeBullet = SpriteFactory::GetInstance()->GetSprite(BULLET, 5);
 }
 
-void EnemyBazokaMan::UpdateDistance(float dt)
+// C?p nh?t kho?ng cách
+void EnemyBazoka::UpdateDistance(float dt)
 {
 	this->isReverse = (player->posX < this->posX);
 	delayTime -= dt;
@@ -26,7 +27,7 @@ void EnemyBazokaMan::UpdateDistance(float dt)
 	}
 }
 
-void EnemyBazokaMan::Update(float dt)
+void EnemyBazoka::Update(float dt)
 {
 	Enemy::Update(dt);
 	if (this->isDead)
@@ -35,7 +36,7 @@ void EnemyBazokaMan::Update(float dt)
 	}
 }
 
-void EnemyBazokaMan::Render(float translateX, float translateY)
+void EnemyBazoka::Render(float translateX, float translateY)
 {
 	auto posX = this->posX + translateX;
 	auto posY = this->posY + translateY;

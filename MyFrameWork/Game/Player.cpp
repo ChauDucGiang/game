@@ -341,7 +341,8 @@ void Player::Render(float translateX, float translateY)
 	auto posY = this->posY + translateY;
 	camera->ConvertPositionToViewPort(posX, posY);
 	curAnimation->isReverse = this->isReverse;
-	curAnimation->Render(posX, posY + SCREEN_TRANSLATEY);
+	//curAnimation->Render(posX, posY + SCREEN_TRANSLATEY);
+	curAnimation->Render(posX, posY);
 }
 
 // Xử lí nhấn phím (chung cho các State)

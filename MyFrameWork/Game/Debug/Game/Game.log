@@ -61,8 +61,8 @@
 \\Mac\Home\Documents\game\MyFrameWork\Game\BulletSprite.h(20,39): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(29,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(30,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   EnemyBazokaMan.cpp
   C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
 \\Mac\Home\Documents\game\MyFrameWork\Game\GameGlobal.h(196,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
@@ -80,8 +80,8 @@
 \\Mac\Home\Documents\game\MyFrameWork\Game\BulletSprite.h(20,39): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(29,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(30,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   EnemyBoss.cpp
   C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
 \\Mac\Home\Documents\game\MyFrameWork\Game\GameGlobal.h(196,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
@@ -99,8 +99,8 @@
 \\Mac\Home\Documents\game\MyFrameWork\Game\BulletSprite.h(20,39): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(29,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(30,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\EnemyBoss.cpp(42,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\EnemyBoss.cpp(47,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
   EnemyCloakMan.cpp
@@ -120,8 +120,8 @@
 \\Mac\Home\Documents\game\MyFrameWork\Game\BulletSprite.h(20,39): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(29,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(30,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   EnemyEagle.cpp
   C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
 \\Mac\Home\Documents\game\MyFrameWork\Game\GameGlobal.h(196,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
@@ -139,8 +139,8 @@
 \\Mac\Home\Documents\game\MyFrameWork\Game\BulletSprite.h(20,39): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(29,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(30,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   EnemyGunMan.cpp
   C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
 \\Mac\Home\Documents\game\MyFrameWork\Game\GameGlobal.h(196,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
@@ -158,8 +158,8 @@
 \\Mac\Home\Documents\game\MyFrameWork\Game\BulletSprite.h(20,39): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(29,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(30,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   EnemyPanther.cpp
   C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
 \\Mac\Home\Documents\game\MyFrameWork\Game\GameGlobal.h(196,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
@@ -177,8 +177,8 @@
 \\Mac\Home\Documents\game\MyFrameWork\Game\BulletSprite.h(20,39): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(29,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(30,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   EnemyRunMan.cpp
   C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
 \\Mac\Home\Documents\game\MyFrameWork\Game\GameGlobal.h(196,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
@@ -196,8 +196,8 @@
 \\Mac\Home\Documents\game\MyFrameWork\Game\BulletSprite.h(20,39): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(29,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(30,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   EnemySprite.cpp
   C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
 \\Mac\Home\Documents\game\MyFrameWork\Game\GameGlobal.h(196,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
@@ -222,8 +222,8 @@
 \\Mac\Home\Documents\game\MyFrameWork\Game\BulletSprite.h(20,39): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(29,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(30,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   FontSprite.cpp
   C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
 \\Mac\Home\Documents\game\MyFrameWork\Game\GameGlobal.h(196,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
@@ -248,8 +248,8 @@
 \\Mac\Home\Documents\game\MyFrameWork\Game\BulletSprite.h(20,39): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(29,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(30,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Game.cpp(126,10): warning C4018: '>=': signed/unsigned mismatch
 \\Mac\Home\Documents\game\MyFrameWork\Game\Game.cpp(144,12): warning C4244: 'argument': conversion from 'unsigned long' to 'float', possible loss of data
   GameGlobal.cpp
@@ -274,31 +274,28 @@
 \\Mac\Home\Documents\game\MyFrameWork\Game\BulletSprite.h(20,39): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(29,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(30,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(24,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(18,55): warning C4474: 'sprintf_s' : too many arguments passed for format string
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(18,55): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
 \\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(25,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(56,78): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(26,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(57,78): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
           with
           [
               _Ty=int
           ]
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(56,63): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(57,63): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
           with
           [
               _Ty=int
           ]
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(56,48): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(57,48): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
           with
           [
               _Ty=int
           ]
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(56,33): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
-          with
-          [
-              _Ty=int
-          ]
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(69,27): warning C4244: '=': conversion from '_Ty' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(57,33): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
           with
           [
               _Ty=int
@@ -308,7 +305,7 @@
           [
               _Ty=int
           ]
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(85,27): warning C4244: '=': conversion from '_Ty' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(71,27): warning C4244: '=': conversion from '_Ty' to 'float', possible loss of data
           with
           [
               _Ty=int
@@ -318,51 +315,51 @@
           [
               _Ty=int
           ]
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(107,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(108,45): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(109,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(110,47): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(177,68): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(87,27): warning C4244: '=': conversion from '_Ty' to 'float', possible loss of data
           with
           [
               _Ty=int
           ]
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(177,57): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(108,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(109,45): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(110,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(111,47): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(178,68): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
           with
           [
               _Ty=int
           ]
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(177,46): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(178,57): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
           with
           [
               _Ty=int
           ]
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(177,35): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(178,46): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
           with
           [
               _Ty=int
           ]
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(199,66): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(178,35): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
           with
           [
               _Ty=int
           ]
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(199,55): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(200,66): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
           with
           [
               _Ty=int
           ]
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(199,44): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(200,55): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
           with
           [
               _Ty=int
           ]
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(199,33): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(200,44): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
           with
           [
               _Ty=int
           ]
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(222,44): warning C4244: '=': conversion from '_Ty' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(200,33): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
           with
           [
               _Ty=int
@@ -372,7 +369,7 @@
           [
               _Ty=int
           ]
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(246,42): warning C4244: '=': conversion from '_Ty' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(224,44): warning C4244: '=': conversion from '_Ty' to 'float', possible loss of data
           with
           [
               _Ty=int
@@ -382,41 +379,46 @@
           [
               _Ty=int
           ]
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(270,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(277,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(284,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(359,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(359,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(397,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(398,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(399,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(400,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(406,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(407,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(408,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(409,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(496,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(497,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(498,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(499,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(515,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(516,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(646,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(647,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(648,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(649,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(671,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(672,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(673,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(674,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(696,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(697,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(698,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(699,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(746,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(747,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(748,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(749,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(248,42): warning C4244: '=': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(271,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(278,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(285,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(360,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(360,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(398,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(399,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(400,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(401,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(407,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(408,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(409,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(410,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(497,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(498,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(499,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(500,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(516,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(517,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(647,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(648,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(649,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(650,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(672,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(673,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(674,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(675,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(697,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(698,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(699,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(700,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(747,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(748,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(749,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Grid.cpp(750,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
   IntroScene.cpp
   C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
 \\Mac\Home\Documents\game\MyFrameWork\Game\GameGlobal.h(196,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
@@ -434,8 +436,8 @@
 \\Mac\Home\Documents\game\MyFrameWork\Game\BulletSprite.h(20,39): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(29,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(30,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\IntroScene.cpp(11,10): warning C4305: '=': truncation from 'double' to 'float'
   Map.cpp
   C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
@@ -452,14 +454,15 @@
 \\Mac\Home\Documents\game\MyFrameWork\Game\ItemSprite.h(19,39): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\BulletSprite.h(20,60): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\BulletSprite.h(20,39): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Map.cpp(14,51): warning C4474: 'sprintf_s' : too many arguments passed for format string
-\\Mac\Home\Documents\game\MyFrameWork\Game\Map.cpp(14,51): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
-\\Mac\Home\Documents\game\MyFrameWork\Game\Map.cpp(23,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Map.cpp(24,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Map.cpp(47,64): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
-\\Mac\Home\Documents\game\MyFrameWork\Game\Map.cpp(68,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Map.cpp(81,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Map.cpp(81,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Map.cpp(15,51): warning C4474: 'sprintf_s' : too many arguments passed for format string
+\\Mac\Home\Documents\game\MyFrameWork\Game\Map.cpp(15,51): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+\\Mac\Home\Documents\game\MyFrameWork\Game\Map.cpp(26,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Map.cpp(27,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Map.cpp(58,81): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+\\Mac\Home\Documents\game\MyFrameWork\Game\Map.cpp(58,95): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+\\Mac\Home\Documents\game\MyFrameWork\Game\Map.cpp(81,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Map.cpp(95,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Map.cpp(95,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   Generating Code...
   Compiling...
   MapFactory.cpp
@@ -511,8 +514,8 @@
 \\Mac\Home\Documents\game\MyFrameWork\Game\BulletSprite.h(20,39): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(29,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(30,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\PlayScene.cpp(116,24): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
   Player.cpp
   C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
@@ -531,8 +534,8 @@
 \\Mac\Home\Documents\game\MyFrameWork\Game\BulletSprite.h(20,39): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(29,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(30,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   PlayerAttackingState.cpp
   C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
 \\Mac\Home\Documents\game\MyFrameWork\Game\GameGlobal.h(196,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
@@ -550,8 +553,8 @@
 \\Mac\Home\Documents\game\MyFrameWork\Game\BulletSprite.h(20,39): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(29,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(30,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   PlayerClimbingState.cpp
   C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
 \\Mac\Home\Documents\game\MyFrameWork\Game\GameGlobal.h(196,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
@@ -569,8 +572,8 @@
 \\Mac\Home\Documents\game\MyFrameWork\Game\BulletSprite.h(20,39): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(29,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(30,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   PlayerClingingState.cpp
   C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
 \\Mac\Home\Documents\game\MyFrameWork\Game\GameGlobal.h(196,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
@@ -588,8 +591,8 @@
 \\Mac\Home\Documents\game\MyFrameWork\Game\BulletSprite.h(20,39): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(29,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(30,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   PlayerFallingState.cpp
   C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
 \\Mac\Home\Documents\game\MyFrameWork\Game\GameGlobal.h(196,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
@@ -607,8 +610,8 @@
 \\Mac\Home\Documents\game\MyFrameWork\Game\BulletSprite.h(20,39): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(29,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(30,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   PlayerInjuredState.cpp
   C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
 \\Mac\Home\Documents\game\MyFrameWork\Game\GameGlobal.h(196,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
@@ -626,8 +629,8 @@
 \\Mac\Home\Documents\game\MyFrameWork\Game\BulletSprite.h(20,39): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(29,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(30,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   PlayerJumpingState.cpp
   C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
 \\Mac\Home\Documents\game\MyFrameWork\Game\GameGlobal.h(196,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
@@ -645,8 +648,8 @@
 \\Mac\Home\Documents\game\MyFrameWork\Game\BulletSprite.h(20,39): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(29,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(30,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   PlayerRunningState.cpp
   C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
 \\Mac\Home\Documents\game\MyFrameWork\Game\GameGlobal.h(196,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
@@ -664,8 +667,8 @@
 \\Mac\Home\Documents\game\MyFrameWork\Game\BulletSprite.h(20,39): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(29,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(30,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   PlayerSittingState.cpp
   C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
 \\Mac\Home\Documents\game\MyFrameWork\Game\GameGlobal.h(196,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
@@ -683,8 +686,8 @@
 \\Mac\Home\Documents\game\MyFrameWork\Game\BulletSprite.h(20,39): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(29,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(30,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   PlayerStandingState.cpp
   C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
 \\Mac\Home\Documents\game\MyFrameWork\Game\GameGlobal.h(196,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
@@ -702,8 +705,8 @@
 \\Mac\Home\Documents\game\MyFrameWork\Game\BulletSprite.h(20,39): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(29,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(30,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   SceneManager.cpp
   C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
 \\Mac\Home\Documents\game\MyFrameWork\Game\GameGlobal.h(196,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
@@ -773,9 +776,9 @@
 \\Mac\Home\Documents\game\MyFrameWork\Game\GameGlobal.h(196,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
 \\Mac\Home\Documents\game\MyFrameWork\Game\GameGlobal.h(225,2): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
 \\Mac\Home\Documents\game\MyFrameWork\Game\GameGlobal.h(245,2): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
-\\Mac\Home\Documents\game\MyFrameWork\Game\Sprite.cpp(12,59): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Sprite.cpp(12,38): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Sprite.cpp(25,30): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Sprite.cpp(14,58): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Sprite.cpp(14,38): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Sprite.cpp(28,30): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
   SpriteFactory.cpp
   C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
 \\Mac\Home\Documents\game\MyFrameWork\Game\GameGlobal.h(196,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
@@ -813,8 +816,8 @@
 \\Mac\Home\Documents\game\MyFrameWork\Game\BulletSprite.h(20,39): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(29,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(30,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   Generating Code...
 \\Mac\Home\Documents\game\MyFrameWork\Game\BulletFactory.h(19): warning C4715: 'BulletFactory::CreateBullet': not all control paths return a value
   Compiling...
@@ -835,8 +838,8 @@
 \\Mac\Home\Documents\game\MyFrameWork\Game\BulletSprite.h(20,39): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(29,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(30,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\WeaponRedShuriken.cpp(15,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
   main.cpp
   C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
@@ -855,7 +858,7 @@
 \\Mac\Home\Documents\game\MyFrameWork\Game\BulletSprite.h(20,39): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(29,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Game\Item.h(30,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(96,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Game\Enemy.h(98,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   Generating Code...
   Game.vcxproj -> \\Mac\Home\Documents\game\MyFrameWork\Debug\Game.exe

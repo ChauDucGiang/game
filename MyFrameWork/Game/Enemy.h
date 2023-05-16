@@ -53,7 +53,9 @@ public:
 		auto posY = this->posY + translateY;
 		camera->ConvertPositionToViewPort(posX, posY);
 		curAnimation->isReverse = this->isReverse;
-		curAnimation->Render(posX, posY + SCREEN_TRANSLATEY);
+		//curAnimation->Render(posX, posY + SCREEN_TRANSLATEY);
+		curAnimation->Render(posX, posY);
+
 	}
 
 	virtual void UpdateDistance(float dt)

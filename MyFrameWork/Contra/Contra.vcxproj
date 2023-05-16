@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -193,21 +193,75 @@
   <ItemGroup>
     <ClCompile Include="Animation.cpp" />
     <ClCompile Include="Camera.cpp" />
+    <ClCompile Include="Cell.cpp" />
     <ClCompile Include="Collision.cpp" />
+    <ClCompile Include="EnemyBazoka.cpp" />
+    <ClCompile Include="EnemyBazokaSprite.cpp" />
+    <ClCompile Include="EnemySoldier.cpp" />
+    <ClCompile Include="EnermyCannon.cpp" />
+    <ClCompile Include="EnermyCannonSprite.cpp" />
+    <ClCompile Include="EnermySoldierSprite.cpp" />
     <ClCompile Include="FontSprite.cpp" />
+    <ClCompile Include="Game.cpp" />
     <ClCompile Include="GameGlobal.cpp" />
+    <ClCompile Include="Grid.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Object.cpp" />
+    <ClCompile Include="Player.cpp" />
+    <ClCompile Include="PlayerAttackingState.cpp" />
+    <ClCompile Include="PlayerClimbingState.cpp" />
+    <ClCompile Include="PlayerClingingState.cpp" />
+    <ClCompile Include="PlayerFallingState.cpp" />
+    <ClCompile Include="PlayerInjuredState.cpp" />
+    <ClCompile Include="PlayerJumpingState.cpp" />
+    <ClCompile Include="PlayerRunningState.cpp" />
+    <ClCompile Include="PlayerSittingState.cpp" />
+    <ClCompile Include="PlayerStandingState.cpp" />
+    <ClCompile Include="ScenceManager.cpp" />
+    <ClCompile Include="ScoreBoard.cpp" />
+    <ClCompile Include="Sound.cpp" />
+    <ClCompile Include="SoundManager.cpp" />
     <ClCompile Include="Sprite.cpp" />
     <ClCompile Include="SpriteFactory.cpp" />
     <ClCompile Include="TextureFactory.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Animation.h" />
+    <ClInclude Include="Bullet.h" />
     <ClInclude Include="Camera.h" />
+    <ClInclude Include="Cell.h" />
     <ClInclude Include="Collision.h" />
+    <ClInclude Include="Enemy.h" />
+    <ClInclude Include="EnemyBazoka.h" />
+    <ClInclude Include="EnemyBazokaSprite.h" />
+    <ClInclude Include="EnemySoldier.h" />
+    <ClInclude Include="EnermyCannon.h" />
+    <ClInclude Include="EnermyCannonSprite.h" />
+    <ClInclude Include="EnermySoldierSprite.h" />
     <ClInclude Include="FontSprite.h" />
+    <ClInclude Include="Game.h" />
     <ClInclude Include="GameGlobal.h" />
+    <ClInclude Include="Grid.h" />
+    <ClInclude Include="Item.h" />
+    <ClInclude Include="Object.h" />
+    <ClInclude Include="Player.h" />
+    <ClInclude Include="PlayerAttackingState.h" />
+    <ClInclude Include="PlayerClimbingState.h" />
+    <ClInclude Include="PlayerClingingState.h" />
+    <ClInclude Include="PlayerFallingState.h" />
+    <ClInclude Include="PlayerInjuredState.h" />
+    <ClInclude Include="PlayerJumpingState.h" />
+    <ClInclude Include="PlayerRunningState.h" />
+    <ClInclude Include="PlayerSittingState.h" />
+    <ClInclude Include="PlayerSprite.h" />
+    <ClInclude Include="PlayerStandingState.h" />
+    <ClInclude Include="PlayerState.h" />
     <ClInclude Include="Rect.h" />
+    <ClInclude Include="ScenceManager.h" />
+    <ClInclude Include="Scene.h" />
+    <ClInclude Include="ScoreBoard.h" />
+    <ClInclude Include="Sound.h" />
+    <ClInclude Include="SoundManager.h" />
     <ClInclude Include="Sprite.h" />
     <ClInclude Include="SpriteFactory.h" />
     <ClInclude Include="State.h" />

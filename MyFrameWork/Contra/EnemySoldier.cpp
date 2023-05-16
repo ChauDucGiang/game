@@ -26,6 +26,7 @@ void EnemySoldier::DetectCurGround(std::unordered_set<Rect*> grounds)
 		}
 	}
 }
+
 // Cập nhật khoảng cách
 void EnemySoldier::UpdateDistance(float dt)
 {

@@ -16,13 +16,13 @@ ScoreBoard::ScoreBoard()
 
 void ScoreBoard::Render()
 {
-	RenderScore();
-	RenderTimer();
-	RenderEnergy();
-	RenderStage();
-	RenderPlayerHealth();
-	RenderPlayerWeapon();
-	RenderEnemyHealth();
+	//RenderScore();
+	//RenderTimer();
+	//RenderEnergy();
+	//RenderStage();
+	//RenderPlayerHealth();
+	//RenderPlayerWeapon();
+	//RenderEnemyHealth();
 }
 
 void ScoreBoard::RenderScore()

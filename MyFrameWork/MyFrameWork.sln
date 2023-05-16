@@ -5,8 +5,6 @@ VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Game", "Game\Game.vcxproj", "{A8C89460-394D-492E-B0A4-5B0D42E2340B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Contra", "Contra\Contra.vcxproj", "{98264DD5-BB6B-4F9B-9D50-595F13E84ADB}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|arm64 = Debug|arm64
@@ -29,18 +27,6 @@ Global
 		{A8C89460-394D-492E-B0A4-5B0D42E2340B}.Release|x64.Build.0 = Release|x64
 		{A8C89460-394D-492E-B0A4-5B0D42E2340B}.Release|x86.ActiveCfg = Release|Win32
 		{A8C89460-394D-492E-B0A4-5B0D42E2340B}.Release|x86.Build.0 = Release|Win32
-		{98264DD5-BB6B-4F9B-9D50-595F13E84ADB}.Debug|arm64.ActiveCfg = Debug|arm64
-		{98264DD5-BB6B-4F9B-9D50-595F13E84ADB}.Debug|arm64.Build.0 = Debug|arm64
-		{98264DD5-BB6B-4F9B-9D50-595F13E84ADB}.Debug|x64.ActiveCfg = Debug|x64
-		{98264DD5-BB6B-4F9B-9D50-595F13E84ADB}.Debug|x64.Build.0 = Debug|x64
-		{98264DD5-BB6B-4F9B-9D50-595F13E84ADB}.Debug|x86.ActiveCfg = Debug|Win32
-		{98264DD5-BB6B-4F9B-9D50-595F13E84ADB}.Debug|x86.Build.0 = Debug|Win32
-		{98264DD5-BB6B-4F9B-9D50-595F13E84ADB}.Release|arm64.ActiveCfg = Release|arm64
-		{98264DD5-BB6B-4F9B-9D50-595F13E84ADB}.Release|arm64.Build.0 = Release|arm64
-		{98264DD5-BB6B-4F9B-9D50-595F13E84ADB}.Release|x64.ActiveCfg = Release|x64
-		{98264DD5-BB6B-4F9B-9D50-595F13E84ADB}.Release|x64.Build.0 = Release|x64
-		{98264DD5-BB6B-4F9B-9D50-595F13E84ADB}.Release|x86.ActiveCfg = Release|Win32
-		{98264DD5-BB6B-4F9B-9D50-595F13E84ADB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

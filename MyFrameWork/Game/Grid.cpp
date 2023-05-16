@@ -14,7 +14,8 @@ void Grid::CreateGridFile(int level)
 
 		// Đọc file matrix để lấy size map -> xác định số cell trong grid
 		char fileMapName[30];
-		sprintf_s(fileMapName, "Resources\\Texts\\matrix%d.txt", level);
+		//sprintf_s(fileMapName, "Resources\\Texts\\matrix%d.txt", level);
+		sprintf_s(fileMapName, "Resources\\Maps\\map1.txt", level);
 		ifile.open(fileMapName);
 
 		int numTiles, rowTiles, colTiles;
@@ -174,9 +175,9 @@ Grid::Grid(int level)
 				ifile >> value;
 				values.push_back(value);
 			}
-			auto ground = new Rect(values[0], values[1], values[2], values[3]);
+			auto ground = new Rect(values[0], values[1], values[2], values[3]); // 0 38 540 100 
 
-			ifile >> left >> top >> right >> bottom;
+			ifile >> left >> top >> right >> bottom; // 0 0 3 0
 			for (int r = bottom; r <= top; ++r)
 			{
 				if (r < 0 || r >= rows) continue;
@@ -509,8 +510,10 @@ void Grid::RemoveObject(Object * obj)
 	}
 }
 
+// cập nhật Cells có thể nhìn thấy
 void Grid::UpdateVisibleCells()
 {
+	// clear visibleCells
 	visibleCells.clear();
 	int left = viewPort.x / Cell::width;
 	int right = ceil(viewPort.x / Cell::width) + 2;
@@ -663,6 +666,7 @@ std::unordered_set<Wall*> Grid::GetColliableWalls(Object * obj)
 	return walls;
 }
 
+// lấy danh sách grounds trong cell chứa Object
 std::unordered_set<Rect*> Grid::GetColliableGrounds(Object * obj)
 {
 	std::unordered_set<Rect*> grounds;
@@ -757,6 +761,7 @@ void Grid::AddObject(Object * obj)
 	}
 }
 
+// lấy danh sách wall trong cell visible
 std::unordered_set<Wall*> Grid::GetVisibleWalls()
 {
 	std::unordered_set<Wall*> setWalls;
@@ -774,6 +779,7 @@ std::unordered_set<Wall*> Grid::GetVisibleWalls()
 	return setWalls;
 }
 
+// lấy danh sách ground trong cell visible
 std::unordered_set<Rect*> Grid::GetVisibleGrounds()
 {
 	std::unordered_set<Rect*> setGrounds;

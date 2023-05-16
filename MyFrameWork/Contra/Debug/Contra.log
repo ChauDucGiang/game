@@ -1,9 +1,270 @@
-﻿  GameGlobal.cpp
+﻿  Animation.cpp
   C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
 \\Mac\Home\Documents\game\MyFrameWork\Contra\State.h(21,2): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
 \\Mac\Home\Documents\game\MyFrameWork\Contra\Tag.h(18,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
 \\Mac\Home\Documents\game\MyFrameWork\Contra\Type.h(30,2): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Animation.cpp(32,19): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  Camera.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+\\Mac\Home\Documents\game\MyFrameWork\Contra\State.h(21,2): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Tag.h(18,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Type.h(30,2): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Camera.cpp(20,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Camera.cpp(20,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Cell.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+\\Mac\Home\Documents\game\MyFrameWork\Contra\State.h(21,2): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Tag.h(18,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Type.h(30,2): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Cell.cpp(10,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Cell.cpp(11,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Collision.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+\\Mac\Home\Documents\game\MyFrameWork\Contra\State.h(21,2): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Tag.h(18,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Type.h(30,2): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+  EnemyBazoka.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+\\Mac\Home\Documents\game\MyFrameWork\Contra\State.h(21,2): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Tag.h(18,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Type.h(30,2): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\PlayerSprite.h(17,60): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\PlayerSprite.h(17,39): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Item.h(29,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Item.h(30,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Enemy.h(97,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Enemy.h(97,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  EnemyBazokaSprite.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+\\Mac\Home\Documents\game\MyFrameWork\Contra\State.h(21,2): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Tag.h(18,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Type.h(30,2): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\EnemyBazokaSprite.cpp(13,59): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\EnemyBazokaSprite.cpp(13,38): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  EnemySoldier.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+\\Mac\Home\Documents\game\MyFrameWork\Contra\State.h(21,2): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Tag.h(18,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Type.h(30,2): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\PlayerSprite.h(17,60): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\PlayerSprite.h(17,39): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Item.h(29,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Item.h(30,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Enemy.h(97,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Enemy.h(97,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  EnermyCannon.cpp
+  EnermyCannonSprite.cpp
+  EnermySoldierSprite.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+\\Mac\Home\Documents\game\MyFrameWork\Contra\State.h(21,2): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Tag.h(18,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Type.h(30,2): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\EnermySoldierSprite.cpp(13,59): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\EnermySoldierSprite.cpp(13,38): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  FontSprite.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+\\Mac\Home\Documents\game\MyFrameWork\Contra\State.h(21,2): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Tag.h(18,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Type.h(30,2): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\FontSprite.cpp(17,59): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\FontSprite.cpp(17,38): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  Game.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+\\Mac\Home\Documents\game\MyFrameWork\Contra\State.h(21,2): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Tag.h(18,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Type.h(30,2): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Game.h(3,10): fatal  error C1083: Cannot open include file: 'SceneManager.h': No such file or directory
+  GameGlobal.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+\\Mac\Home\Documents\game\MyFrameWork\Contra\State.h(21,2): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Tag.h(18,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Type.h(30,2): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+  Grid.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+\\Mac\Home\Documents\game\MyFrameWork\Contra\State.h(21,2): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Tag.h(18,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Type.h(30,2): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Grid.h(6,10): fatal  error C1083: Cannot open include file: 'WeaponFactory.h': No such file or directory
   main.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+\\Mac\Home\Documents\game\MyFrameWork\Contra\State.h(21,2): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Tag.h(18,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Type.h(30,2): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Game.h(3,10): fatal  error C1083: Cannot open include file: 'SceneManager.h': No such file or directory
+  Object.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+\\Mac\Home\Documents\game\MyFrameWork\Contra\State.h(21,2): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Tag.h(18,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Type.h(30,2): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Object.cpp(8,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Object.cpp(9,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Player.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+\\Mac\Home\Documents\game\MyFrameWork\Contra\State.h(21,2): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Tag.h(18,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Type.h(30,2): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\PlayerSprite.h(17,60): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\PlayerSprite.h(17,39): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Item.h(29,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Item.h(30,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Enemy.h(97,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Enemy.h(97,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  PlayerAttackingState.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+\\Mac\Home\Documents\game\MyFrameWork\Contra\State.h(21,2): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Tag.h(18,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Type.h(30,2): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\PlayerSprite.h(17,60): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\PlayerSprite.h(17,39): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Item.h(29,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Item.h(30,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Enemy.h(97,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Enemy.h(97,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  PlayerClimbingState.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+\\Mac\Home\Documents\game\MyFrameWork\Contra\State.h(21,2): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Tag.h(18,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Type.h(30,2): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\PlayerSprite.h(17,60): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\PlayerSprite.h(17,39): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Item.h(29,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Item.h(30,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Enemy.h(97,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Enemy.h(97,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  PlayerClingingState.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+\\Mac\Home\Documents\game\MyFrameWork\Contra\State.h(21,2): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Tag.h(18,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Type.h(30,2): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\PlayerSprite.h(17,60): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\PlayerSprite.h(17,39): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Item.h(29,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Item.h(30,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Enemy.h(97,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Enemy.h(97,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Compiling...
+  PlayerFallingState.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+\\Mac\Home\Documents\game\MyFrameWork\Contra\State.h(21,2): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Tag.h(18,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Type.h(30,2): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\PlayerSprite.h(17,60): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\PlayerSprite.h(17,39): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Item.h(29,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Item.h(30,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Enemy.h(97,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Enemy.h(97,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  PlayerInjuredState.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+\\Mac\Home\Documents\game\MyFrameWork\Contra\State.h(21,2): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Tag.h(18,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Type.h(30,2): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\PlayerSprite.h(17,60): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\PlayerSprite.h(17,39): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Item.h(29,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Item.h(30,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Enemy.h(97,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Enemy.h(97,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  PlayerJumpingState.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+\\Mac\Home\Documents\game\MyFrameWork\Contra\State.h(21,2): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Tag.h(18,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Type.h(30,2): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\PlayerSprite.h(17,60): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\PlayerSprite.h(17,39): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Item.h(29,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Item.h(30,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Enemy.h(97,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Enemy.h(97,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  PlayerRunningState.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+\\Mac\Home\Documents\game\MyFrameWork\Contra\State.h(21,2): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Tag.h(18,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Type.h(30,2): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\PlayerSprite.h(17,60): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\PlayerSprite.h(17,39): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Item.h(29,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Item.h(30,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Enemy.h(97,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Enemy.h(97,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  PlayerSittingState.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+\\Mac\Home\Documents\game\MyFrameWork\Contra\State.h(21,2): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Tag.h(18,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Type.h(30,2): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\PlayerSprite.h(17,60): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\PlayerSprite.h(17,39): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Item.h(29,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Item.h(30,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Enemy.h(97,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Enemy.h(97,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  PlayerStandingState.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+\\Mac\Home\Documents\game\MyFrameWork\Contra\State.h(21,2): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Tag.h(18,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Type.h(30,2): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\PlayerSprite.h(17,60): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\PlayerSprite.h(17,39): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Item.h(29,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Item.h(30,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Enemy.h(97,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Enemy.h(97,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ScenceManager.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+\\Mac\Home\Documents\game\MyFrameWork\Contra\State.h(21,2): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Tag.h(18,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Type.h(30,2): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+  ScoreBoard.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+\\Mac\Home\Documents\game\MyFrameWork\Contra\State.h(21,2): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Tag.h(18,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Type.h(30,2): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\ScoreBoard.cpp(39,74): warning C4305: 'argument': truncation from 'double' to 'float'
+\\Mac\Home\Documents\game\MyFrameWork\Contra\ScoreBoard.cpp(43,84): warning C4305: 'argument': truncation from 'double' to 'float'
+\\Mac\Home\Documents\game\MyFrameWork\Contra\ScoreBoard.cpp(43,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\ScoreBoard.cpp(48,121): warning C4305: 'argument': truncation from 'double' to 'float'
+\\Mac\Home\Documents\game\MyFrameWork\Contra\ScoreBoard.cpp(48,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\ScoreBoard.cpp(55,75): warning C4305: 'argument': truncation from 'double' to 'float'
+\\Mac\Home\Documents\game\MyFrameWork\Contra\ScoreBoard.cpp(56,75): warning C4305: 'argument': truncation from 'double' to 'float'
+\\Mac\Home\Documents\game\MyFrameWork\Contra\ScoreBoard.cpp(57,75): warning C4305: 'argument': truncation from 'double' to 'float'
+\\Mac\Home\Documents\game\MyFrameWork\Contra\ScoreBoard.cpp(58,83): warning C4305: 'argument': truncation from 'double' to 'float'
+\\Mac\Home\Documents\game\MyFrameWork\Contra\ScoreBoard.cpp(71,74): warning C4305: 'argument': truncation from 'double' to 'float'
+\\Mac\Home\Documents\game\MyFrameWork\Contra\ScoreBoard.cpp(77,112): warning C4305: 'argument': truncation from 'double' to 'float'
+\\Mac\Home\Documents\game\MyFrameWork\Contra\ScoreBoard.cpp(77,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\ScoreBoard.cpp(82,75): warning C4305: 'argument': truncation from 'double' to 'float'
+\\Mac\Home\Documents\game\MyFrameWork\Contra\ScoreBoard.cpp(83,75): warning C4305: 'argument': truncation from 'double' to 'float'
+\\Mac\Home\Documents\game\MyFrameWork\Contra\ScoreBoard.cpp(84,102): warning C4305: 'argument': truncation from 'double' to 'float'
+\\Mac\Home\Documents\game\MyFrameWork\Contra\ScoreBoard.cpp(88,75): warning C4305: 'argument': truncation from 'double' to 'float'
+\\Mac\Home\Documents\game\MyFrameWork\Contra\ScoreBoard.cpp(91,112): warning C4305: 'argument': truncation from 'double' to 'float'
+\\Mac\Home\Documents\game\MyFrameWork\Contra\ScoreBoard.cpp(91,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\ScoreBoard.cpp(106,86): warning C4305: 'argument': truncation from 'double' to 'float'
+\\Mac\Home\Documents\game\MyFrameWork\Contra\ScoreBoard.cpp(107,74): warning C4305: 'argument': truncation from 'double' to 'float'
+\\Mac\Home\Documents\game\MyFrameWork\Contra\ScoreBoard.cpp(108,91): warning C4305: 'argument': truncation from 'double' to 'float'
+\\Mac\Home\Documents\game\MyFrameWork\Contra\ScoreBoard.cpp(109,91): warning C4305: 'argument': truncation from 'double' to 'float'
+\\Mac\Home\Documents\game\MyFrameWork\Contra\ScoreBoard.cpp(111,74): warning C4305: 'argument': truncation from 'double' to 'float'
+\\Mac\Home\Documents\game\MyFrameWork\Contra\ScoreBoard.cpp(115,84): warning C4305: 'argument': truncation from 'double' to 'float'
+\\Mac\Home\Documents\game\MyFrameWork\Contra\ScoreBoard.cpp(115,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\ScoreBoard.cpp(120,122): warning C4305: 'argument': truncation from 'double' to 'float'
+\\Mac\Home\Documents\game\MyFrameWork\Contra\ScoreBoard.cpp(120,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\ScoreBoard.cpp(128,81): warning C4305: 'argument': truncation from 'double' to 'float'
+\\Mac\Home\Documents\game\MyFrameWork\Contra\ScoreBoard.cpp(140,100): warning C4305: 'argument': truncation from 'double' to 'float'
+\\Mac\Home\Documents\game\MyFrameWork\Contra\ScoreBoard.cpp(151,98): warning C4305: 'argument': truncation from 'double' to 'float'
+\\Mac\Home\Documents\game\MyFrameWork\Contra\ScoreBoard.cpp(160,61): warning C4305: 'argument': truncation from 'double' to 'float'
+\\Mac\Home\Documents\game\MyFrameWork\Contra\ScoreBoard.cpp(161,61): warning C4305: 'argument': truncation from 'double' to 'float'
+\\Mac\Home\Documents\game\MyFrameWork\Contra\ScoreBoard.cpp(162,61): warning C4305: 'argument': truncation from 'double' to 'float'
+\\Mac\Home\Documents\game\MyFrameWork\Contra\ScoreBoard.cpp(163,61): warning C4305: 'argument': truncation from 'double' to 'float'
+\\Mac\Home\Documents\game\MyFrameWork\Contra\ScoreBoard.cpp(185,75): warning C4305: 'argument': truncation from 'double' to 'float'
+\\Mac\Home\Documents\game\MyFrameWork\Contra\ScoreBoard.cpp(192,75): warning C4305: 'argument': truncation from 'double' to 'float'
+\\Mac\Home\Documents\game\MyFrameWork\Contra\ScoreBoard.cpp(203,98): warning C4305: 'argument': truncation from 'double' to 'float'
+\\Mac\Home\Documents\game\MyFrameWork\Contra\ScoreBoard.cpp(203,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\ScoreBoard.cpp(203,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\ScoreBoard.cpp(231,12): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+  Sound.cpp
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Sound.cpp(171,18): warning C4244: 'initializing': conversion from 'float' to 'long', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Sound.cpp(229,16): warning C4244: 'initializing': conversion from 'float' to 'long', possible loss of data
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Sound.cpp(241,16): warning C4244: 'initializing': conversion from 'float' to 'long', possible loss of data
+  SoundManager.cpp
   Sprite.cpp
   C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
 \\Mac\Home\Documents\game\MyFrameWork\Contra\State.h(21,2): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
@@ -12,14 +273,14 @@
 \\Mac\Home\Documents\game\MyFrameWork\Contra\Sprite.cpp(14,58): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Contra\Sprite.cpp(14,38): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
 \\Mac\Home\Documents\game\MyFrameWork\Contra\Sprite.cpp(28,30): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  SpriteFactory.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+\\Mac\Home\Documents\game\MyFrameWork\Contra\State.h(21,2): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Tag.h(18,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+\\Mac\Home\Documents\game\MyFrameWork\Contra\Type.h(30,2): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
   TextureFactory.cpp
   C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
 \\Mac\Home\Documents\game\MyFrameWork\Contra\State.h(21,2): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
 \\Mac\Home\Documents\game\MyFrameWork\Contra\Tag.h(18,2): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
 \\Mac\Home\Documents\game\MyFrameWork\Contra\Type.h(30,2): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
   Generating Code...
-Sprite.obj : error LNK2019: unresolved external symbol _D3DXMatrixTransformation2D@28 referenced in function "public: virtual void __thiscall Sprite::Render(float,float,float,float)" (?Render@Sprite@@UAEXMMMM@Z)
-TextureFactory.obj : error LNK2019: unresolved external symbol _D3DXGetImageInfoFromFileA@8 referenced in function "public: __thiscall Texture::Texture(char const *)" (??0Texture@@QAE@PBD@Z)
-TextureFactory.obj : error LNK2019: unresolved external symbol _D3DXCreateTextureFromFileExA@56 referenced in function "public: __thiscall Texture::Texture(char const *)" (??0Texture@@QAE@PBD@Z)
-MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
-\\Mac\Home\Documents\game\MyFrameWork\Debug\Contra.exe : fatal error LNK1120: 4 unresolved externals

@@ -16,6 +16,30 @@
     <Filter Include="Controllers">
       <UniqueIdentifier>{01e3c3ac-68e1-4604-abcf-7864bf61d1c0}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Objects\Enemies">
+      <UniqueIdentifier>{291ce834-d747-41c6-97ac-96ec2a5d27e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Enemies\Bazoka">
+      <UniqueIdentifier>{bb0b025f-7511-42f1-868f-b24825c55170}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Enemies\Solider">
+      <UniqueIdentifier>{b477dc31-8e20-41bb-a07f-d9e7cbe720b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Enemies\Canon">
+      <UniqueIdentifier>{a389ff78-f89b-45b4-a094-d9c8bfb6318c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Player">
+      <UniqueIdentifier>{a45d8f57-5ebc-41ce-ad52-b926c0287906}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Player\States">
+      <UniqueIdentifier>{e21b195c-1cd5-4d52-a78c-6b9d75433ea4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Items">
+      <UniqueIdentifier>{61f5910f-2ce4-4cd6-ad81-d6ab7099276d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Bullets">
+      <UniqueIdentifier>{e12ce734-3687-434f-a4a1-c66dde45d3aa}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
@@ -41,6 +65,78 @@
       <Filter>Components</Filter>
     </ClCompile>
     <ClCompile Include="Collision.cpp">
+      <Filter>Components</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>Components</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyBazoka.cpp">
+      <Filter>Objects\Enemies\Bazoka</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyBazokaSprite.cpp">
+      <Filter>Objects\Enemies\Bazoka</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemySoldier.cpp">
+      <Filter>Objects\Enemies\Solider</Filter>
+    </ClCompile>
+    <ClCompile Include="EnermyCannon.cpp">
+      <Filter>Objects\Enemies\Canon</Filter>
+    </ClCompile>
+    <ClCompile Include="EnermyCannonSprite.cpp">
+      <Filter>Objects\Enemies\Canon</Filter>
+    </ClCompile>
+    <ClCompile Include="EnermySoldierSprite.cpp">
+      <Filter>Objects\Enemies\Solider</Filter>
+    </ClCompile>
+    <ClCompile Include="Cell.cpp">
+      <Filter>Components</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Objects\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="ScenceManager.cpp">
+      <Filter>Controllers</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundManager.cpp">
+      <Filter>Controllers</Filter>
+    </ClCompile>
+    <ClCompile Include="ScoreBoard.cpp">
+      <Filter>Components</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound.cpp">
+      <Filter>Components</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerSittingState.cpp">
+      <Filter>Objects\Player\States</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerAttackingState.cpp">
+      <Filter>Objects\Player\States</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerClimbingState.cpp">
+      <Filter>Objects\Player\States</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerClingingState.cpp">
+      <Filter>Objects\Player\States</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerFallingState.cpp">
+      <Filter>Objects\Player\States</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerInjuredState.cpp">
+      <Filter>Objects\Player\States</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerJumpingState.cpp">
+      <Filter>Objects\Player\States</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerRunningState.cpp">
+      <Filter>Objects\Player\States</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerStandingState.cpp">
+      <Filter>Objects\Player\States</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Components</Filter>
+    </ClCompile>
+    <ClCompile Include="Grid.cpp">
       <Filter>Components</Filter>
     </ClCompile>
   </ItemGroup>
@@ -85,6 +181,96 @@
       <Filter>Components</Filter>
     </ClInclude>
     <ClInclude Include="Collision.h">
+      <Filter>Components</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Objects\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyBazoka.h">
+      <Filter>Objects\Enemies\Bazoka</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyBazokaSprite.h">
+      <Filter>Objects\Enemies\Bazoka</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemySoldier.h">
+      <Filter>Objects\Enemies\Solider</Filter>
+    </ClInclude>
+    <ClInclude Include="EnermyCannon.h">
+      <Filter>Objects\Enemies\Canon</Filter>
+    </ClInclude>
+    <ClInclude Include="EnermyCannonSprite.h">
+      <Filter>Objects\Enemies\Canon</Filter>
+    </ClInclude>
+    <ClInclude Include="EnermySoldierSprite.h">
+      <Filter>Objects\Enemies\Solider</Filter>
+    </ClInclude>
+    <ClInclude Include="Cell.h">
+      <Filter>Components</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Objects\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerSprite.h">
+      <Filter>Objects\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerState.h">
+      <Filter>Objects\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>Components</Filter>
+    </ClInclude>
+    <ClInclude Include="ScenceManager.h">
+      <Filter>Controllers</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundManager.h">
+      <Filter>Controllers</Filter>
+    </ClInclude>
+    <ClInclude Include="ScoreBoard.h">
+      <Filter>Components</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound.h">
+      <Filter>Components</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>Components</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerSittingState.h">
+      <Filter>Objects\Player\States</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerAttackingState.h">
+      <Filter>Objects\Player\States</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerClimbingState.h">
+      <Filter>Objects\Player\States</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerClingingState.h">
+      <Filter>Objects\Player\States</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerFallingState.h">
+      <Filter>Objects\Player\States</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerInjuredState.h">
+      <Filter>Objects\Player\States</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerJumpingState.h">
+      <Filter>Objects\Player\States</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerRunningState.h">
+      <Filter>Objects\Player\States</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerStandingState.h">
+      <Filter>Objects\Player\States</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>Objects\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>Objects\Bullets</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Components</Filter>
+    </ClInclude>
+    <ClInclude Include="Grid.h">
       <Filter>Components</Filter>
     </ClInclude>
   </ItemGroup>
