@@ -9,7 +9,7 @@
 #define WINDOW_CLASS_NAME "Contra"		// Class Windows
 #define MAIN_WINDOW_TITLE "Contra"		// Tên cửa sổ
 #define SCREEN_WIDTH 320						// Chiều rộng cửa sổ
-#define SCREEN_HEIGHT 340						// Chiều dài cửa sổ
+#define SCREEN_HEIGHT 290						// Chiều dài cửa sổ
 #define SCREEN_TRANSLATEY 60
 #define MAX_FRAME_RATE 90						// FPS
 #define BACK_COLOR D3DCOLOR_XRGB(0, 0, 0)		// Màu nền BackBuffer
