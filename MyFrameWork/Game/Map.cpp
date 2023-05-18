@@ -9,19 +9,14 @@ Map::Map(int level)
 {
 	std::ifstream ifile;
 	char fileName[30];
-	int numSetTiles;
-	//sprintf_s(fileName, "Resources\\Texts\\matrix%d.txt", level);
+	int numSetTiles, tileCols, tileRows;
+	sprintf_s(fileName, "Resources\\Maps\\matrix%d.txt", level);
 
-	sprintf_s(fileName, "Resources\\Maps\\map1.txt", level);
 	// Lấy thông tin hàng, cột và chiều dài, rộng của Map tương ứng
 	ifile.open(fileName);
-	ifile >> numSetTiles;
-	ifile >> columns;
-	ifile >> rows;
-	width = columns * 16;
-	height = rows * 16;
-	//width = columns << 4;
-	//height = rows << 4;
+	ifile >> numSetTiles >> tileCols >> tileRows >> columns >> rows;
+	width = columns * TILE_SIZE;
+	height = rows * TILE_SIZE;
 
 	rect.width = width;
 	rect.height = height;
@@ -45,17 +40,12 @@ Map::Map(int level)
 	}
 
 	auto sprites = SpriteFactory::GetInstance();
-	//for (int i = 0; i < numSetTiles; ++i)
-	//{
 
-	//	sprites->AddSprite(new Sprite(mapLevel, i << 4, 0, i + 1 << 4, 16));
-	//}
-
-	for (int row = 0; row < 12; ++row)
+	for (int row = 0; row < tileRows; ++row)
 	{
-		for (int column = 0; column < 11; ++column)
+		for (int column = 0; column < tileCols; ++column)
 		{
-			sprites->AddSprite(new Sprite(mapLevel, column * 16, row *16, column + 1 << 4, row + 1 << 4));
+			sprites->AddSprite(new Sprite(mapLevel, column * TILE_SIZE, row * TILE_SIZE, (column + 1) * TILE_SIZE, (row + 1) * TILE_SIZE));
 		}
 
 	}
@@ -92,7 +82,7 @@ void Map::Render()
 		{
 			auto sprite = sprites->GetSprite(mapLevel, mapTiles[r][c]);
 			//sprite->Render((c << 4) + MOVE_TILE - (int)camera->x, (r << 4) + MOVE_TILE + SCREEN_TRANSLATEY);
-			sprite->Render((c * 16) + MOVE_TILE - (int)camera->x, (r * 16) + MOVE_TILE + SCREEN_TRANSLATEY);
+			sprite->Render((c * 16) + MOVE_TILE - (int)camera->x, (r * 16) + MOVE_TILE);
 		}
 	}
 }

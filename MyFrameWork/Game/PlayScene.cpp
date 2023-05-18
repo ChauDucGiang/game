@@ -12,8 +12,8 @@ PlayScene::PlayScene(int level)
 
 	p = player;
 	p->lives = PLAYER_LIVES;
-	p->posX = p->spawnX = 50; //Toa do render Player
-	p->posY = p->spawnY = 50; //Toa do render Player
+	p->posX = p->spawnX = 100; //Toa do render Player
+	p->posY = p->spawnY = 120; //Toa do render Player
 	p->DetectSpawnY(grid->GetColliableGrounds(p));
 	p->Respawn();
 
