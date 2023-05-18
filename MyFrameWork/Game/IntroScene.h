@@ -9,10 +9,7 @@
 class IntroScene : public Scene
 {
 private:
-	Sprite* ninjaSprite;
 	Sprite* nameSprite;
-	Sprite* infoSprite;
-	Sprite* stageSprite;
 	float vx;
 	float vy;
 
