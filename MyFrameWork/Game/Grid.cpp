@@ -21,8 +21,8 @@ void Grid::CreateGridFile(int level)
 		ifile >> numSetTiles >> tileCols >> tileRows >> mapCols >> mapRows;
 		ifile.close();
 
-		int colCell = ceil((float)(mapCols * TILE_SIZE) / (SCREEN_WIDTH >> 1));
-		int rowCell = ceil((float)(mapRows * TILE_SIZE) / (SCREEN_HEIGHT >> 1)) + 1;
+		int colCell = ceil((float)(mapCols * TILE_SIZE) / (SCREEN_WIDTH / 2));
+		int rowCell = ceil((float)(mapRows * TILE_SIZE) / (SCREEN_HEIGHT / 2)) + 1;
 
 		// Đọc từng loại object và đẩy vào grid (mỗi loại có thông số cách tính Rect khác nhau)
 		char objectsFileName[30];
